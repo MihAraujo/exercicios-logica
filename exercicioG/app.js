@@ -9,5 +9,7 @@ function divisiveis2e3(){
     const calcular = document.getElementById('calcular')
     const resultado = document.getElementById('result')
 
-    
+    let divisiveis
+
+
 }
