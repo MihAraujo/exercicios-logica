@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 500px;
+}
+
+.conteiner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title{
+    font-size: 30px;
+    background-color: aqua;
+}
+
+.input{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.button-template{
+    margin-top: 10px;
+}
+
+.result{
+    margin-top: 10px;
+    width: 320px;
+    height: 200px;
+    background-color:aqua;
+    color: black;
+}
